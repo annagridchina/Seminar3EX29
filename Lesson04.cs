@@ -16,7 +16,6 @@ public class Lesson04
   public static void Task29()
   {
     int[] ar = {9, 4, 12};
-    //Fill(ar);
     Console.WriteLine(Print(ar));
     int dec = ToDec(ar);
     WriteLine($"{Print(ar)} => {dec}");
